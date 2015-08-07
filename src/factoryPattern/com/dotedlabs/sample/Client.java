@@ -8,6 +8,8 @@ import factoryPattern.com.dotedlabs.sample.vehicle.Car;
 
 /**
  * @author Sandeep K Nair
+ * 
+ *         The client class that is used for testing
  *
  */
 public class Client {
